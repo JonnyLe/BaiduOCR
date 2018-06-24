@@ -1,0 +1,5 @@
+OCR文字识别系统开发（应用层次）：
+开发环境：python3，
+模块：tornado,WEB框架，aip百度SDK
+IDE:Pycharm-presional
+
